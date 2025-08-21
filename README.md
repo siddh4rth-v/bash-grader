@@ -1,7 +1,11 @@
 Commands
+
 Combine CSVs :- ./script.sh combine
+
 Upload CSVs  :- ./script.sh upload path-to-file.csv
+
 Total :- ./script.sh total
+
 Update Marks :- ./script.sh update
                     Prompts for:
                     Roll_Number
